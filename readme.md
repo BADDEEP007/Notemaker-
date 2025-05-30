@@ -23,22 +23,6 @@ A simple Note-making REST API built using **pure Node.js**, without any third-pa
 
 ## 📁 Project Structure
 
-\`\`\`  
-Notemaker/
-│
-├── data/ # Stores notes as a JSON file
-│ └── data.json
-│
-├── logs/ # Stores log file
-│ └── app.log
-│
-├── utils/ # Utility modules
-│ ├── fileManager.js # Handles CRUD operations
-│ └── logger.js # Logs request data to a file
-│
-├── server.js # Main server and route handling
-└── README.md # Project documentation
-\`\`\`  
 
 ---
 
