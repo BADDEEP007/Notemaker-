@@ -1,0 +1,21 @@
+{
+  "name": "notemaker",
+  "version": "1.0.0",
+  "description": "its for practice ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --env-file=.env server.js"
+  },
+  "type": "module",
+  "author": "baddeep",
+  "license": "MIT",
+  "devDependencies": {
+    "deamon": "^1.0.0"
+  },
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0",
+    "winston": "^3.17.0"
+  }
+}
